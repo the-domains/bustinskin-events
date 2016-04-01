@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "This is a perfect event for newcomers to the sport of triathlon and a fantastic start to the 2016 season for the more experienced athlete. The facilities at the Osprey Centre are perfect for a pool based triathlon with secure racking for the bikes, chip timing by FullOnSport, a beautiful and scenic bike ride and a fantastic flat off-road coastal run. The Legacy cafe will be open during the event for spectators and competitors alike.\n\nPlease make sure you input your estimated swim time as accurately as possible when going through the online entry system as this will decide your swim group start time.\_"
-datePublished: '2016-04-01T17:35:12.819Z'
-dateModified: '2016-04-01T17:35:11.105Z'
+datePublished: '2016-04-01T17:37:03.314Z'
+dateModified: '2016-04-01T17:36:23.091Z'
 title: The Osprey Sprint Triathlon
 author: []
 authors: []
