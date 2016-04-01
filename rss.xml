@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BustinSkin Events]]></title>
         <description><![CDATA[BustinSkin Events]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bustinskin-events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 16:44:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 16:51:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bustinskin-events/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Go on, be social! </p>]]></description>
-            <link>undefinedgo-on-be-social/index.html</link>
+            <link>https://thegrid.ai/bustinskin-events/go-on-be-social/index.html</link>
             <guid isPermaLink="false">4de15c71-7862-40ea-aaed-7a6e7710c6b4</guid>
-            <pubDate>Fri, 01 Apr 2016 16:44:23 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 16:51:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
