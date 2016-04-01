@@ -1,0 +1,28 @@
+name: BustinSkin Events
+favicon: null
+layout_spectrum: 0.4275069187860936
+typography_spectrum: 0.06493441294878721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7360638403333724
+  lightness: 0.061863918555900455
+  saturation: 0.5226290356367826
+  rhythmicContrast: 0.013998525217175484
+purpose: []
