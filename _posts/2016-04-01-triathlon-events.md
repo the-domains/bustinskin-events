@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: Apr 2016
-datePublished: '2016-04-01T17:36:14.804Z'
-dateModified: '2016-04-01T17:29:29.443Z'
+datePublished: '2016-04-02T10:07:03.946Z'
+dateModified: '2016-04-02T10:07:03.255Z'
 title: Triathlon Events
 author: []
+sourcePath: _posts/2016-04-01-triathlon-events.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-triathlon-events.md
-published: true
 url: triathlon-events/index.html
 _type: Article
 
@@ -71,3 +71,5 @@ Time - 8:00 am -- 12:00 pm
 Event - Osprey Sprint Triathlon -- Autumn 2016 
 
 Location - Osprey Leisure Centre, Portland Dorset
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db0d77b8-d143-4718-b39d-61a3c68e77d0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a54d7ec6-e9db-4ac5-b8e9-2e851ca202f1.jpg)
