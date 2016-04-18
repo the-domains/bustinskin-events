@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#878787'
     - '#cacaca'
-  brandStrength: 0.75
-  lightness: 0.25
-  saturation: 0.5
-  rhythmicContrast: 0
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
